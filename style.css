@@ -96,14 +96,8 @@
     margin-left: 150px;
     margin-right: 425px;
     margin-top: 50px;
-    margin-bottom: 50px;
-}
-#thirdProject{
-    margin-left: 150px;
-    margin-right: 425px;
     margin-bottom: 200px;
 }
-
 .fade-in {
     opacity: 0;
     transition: opacity 250ms ease-in;
