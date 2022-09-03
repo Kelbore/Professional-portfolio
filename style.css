@@ -57,26 +57,34 @@
 }
 #firsttag {
     margin-top: 100px;
-    
+    margin-left: 125px;
 }
 #retail {
     margin-top: 50px;
 }
 #code {
-  
+    margin-left: 125px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+#languages {
+    height: 410px;
 }
 #aait {
-    margin-left: 150px;
+    margin-left: 110px;
 }
 #generation {
-    margin-left: 150px;
+    margin-left: 110px;
     margin-right: 425px;
+    width: 813px;
 }
 #education {
     background-color: #002304;
 }
 #tag {
-    margin-top: 200px;
+    margin-top: 100px;
+    margin-left: 110px;
+    margin-bottom: 50px;
 }
 #skill {
     margin-left: 150px;
@@ -84,16 +92,16 @@
 
 #project {
     margin-top: 100px;
-    margin-left: 150px;
-    
+    margin-left: 110px;
+    margin-bottom: 50px;
 }
 #firstProject {
-    margin-left: 150px;
+    margin-left: 110px;
     margin-right: 425px;
     
 }
 #secondProject {
-    margin-left: 150px;
+    margin-left: 110px;
     margin-right: 425px;
     margin-top: 50px;
     margin-bottom: 200px;
